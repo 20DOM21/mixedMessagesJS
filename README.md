@@ -3,7 +3,8 @@
 ## Table of contents:
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Launch](#launch)
+* [Sources](#sources)
 
 ## General info:
 * This project is part of Codecademys Full-Stack Engineering Path.
@@ -16,13 +17,18 @@
 * Visual Studio Code 1.63.0
 * Node.js: 14.16.0
 	
-## Setup
-To run this project, install it locally using npm:
+## Launch:
+Make sure you have Node.js downloaded beforehand.
+To run this program, you may simply copy the following and insert it into your GitBash command line / terminal:
+```
+git clone https://github.com/20DOM21/mixedMessagesJS.git
+cd mixedMessagesJS
+node mixedMessages.js
+```
+To get a new message, simply re-run the program by retyping / reinserting the last command:
+```
+node mixedMessages.js
+```
 
-Launch
-Illustrations
-Scope of functionalities 
-Examples of use
-Project status 
-Sources
-Other information
+## Sources:
+https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
