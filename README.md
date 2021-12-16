@@ -18,14 +18,23 @@
 * Node.js: 14.16.0
 	
 ## Launch:
-Make sure you have Node.js downloaded beforehand.
-To run this program, you may simply copy the following and insert it into your GitBash command line / terminal:
+* Make sure you have Node.js downloaded beforehand.
+* To run this program, you need to choose a local directory where the files will be stored, using your GitBash command line / terminal:
+``` 
+$ cd [name of your directory]
+```
+* Alternatively, create a new one first:
+```
+$ mkdir [name of your directory]
+$ cd [name of your directory]
+```
+* Then, you may simply copy the following and paste it into your GitBash command line / terminal:
 ```
 git clone https://github.com/20DOM21/mixedMessagesJS.git
 cd mixedMessagesJS
 node mixedMessages.js
 ```
-To get a new message, simply re-run the program by retyping / reinserting the last command:
+* To get a new message, simply re-run the program by retyping / re-pasting the last command:
 ```
 node mixedMessages.js
 ```
